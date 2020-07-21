@@ -1,0 +1,35 @@
+export default function () {
+  return {
+    //
+    registers: [],
+    register: {},
+    taxes: [],
+    tax: {},
+    taxGroups: [],
+    taxGroup: {},
+    addOns: [],
+    addon: {},
+    addOnGroups: [],
+    addOnGroup: {},
+    variants: [],
+    variant: {},
+    variantGroups: [],
+    variantGroup: {},
+    discountRules: [],
+    discountRule: {},
+    additionalCharges: [],
+    additionalCharge: {},
+    orderTicketGroups: [],
+    ticketGroup: {},
+    paymentTypes: [],
+    paymentType: {},
+    additionalDetails: [],
+    additionalDetail: {},
+    tags: [],
+    tag: {},
+    tables: [],
+    dineInTable: {},
+    shifts: [],
+    shift: {}
+  }
+}

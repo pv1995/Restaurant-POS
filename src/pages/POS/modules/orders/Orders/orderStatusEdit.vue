@@ -1,0 +1,1 @@
+//Manager can review and edit the status of the order after the order is taken (In the Kitchen, Out for Delivery, Payment Pending/Complete)
